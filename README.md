@@ -44,3 +44,7 @@ A simple and elegant Analog Clock built using HTML, CSS, and JavaScript that dis
  📸 Screenshots
 
  <img width="1916" height="929" alt="image" src="https://github.com/user-attachments/assets/476fe60c-53b6-4c62-9c26-1db2c56250c5" />
+
+ ⭐ Show Your Support
+
+If you like this project, give it a ⭐ on GitHub!
